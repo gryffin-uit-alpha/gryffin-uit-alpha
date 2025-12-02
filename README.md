@@ -83,6 +83,7 @@ I am a final-year Computer Science student at <b>UIT, VNU-HCM</b>. My passion li
   </a>
 </p>
 ---
+---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gryffin-uit-alpha&show_icons=true&theme=radical&hide_border=true" alt="gryffin-uit-alpha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gryffin-uit-alpha&theme=radical&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
