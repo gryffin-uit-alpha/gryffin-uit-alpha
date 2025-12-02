@@ -75,10 +75,13 @@ I am a final-year Computer Science student at <b>UIT, VNU-HCM</b>. My passion li
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gryffin-uit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gryffin-uit" height="30" width="40" /></a>
-<a href="mailto:baolongsolucky@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="baolongsolucky@gmail.com" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gryffin-uit" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:baolongsolucky@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
 ---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gryffin-uit-alpha&show_icons=true&theme=radical&hide_border=true" alt="gryffin-uit-alpha" />
