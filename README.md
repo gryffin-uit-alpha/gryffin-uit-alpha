@@ -171,7 +171,7 @@ E --> L[Ingress Gateway]
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=gryffin-uit-alpha&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
