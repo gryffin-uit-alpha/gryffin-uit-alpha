@@ -1,143 +1,52 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:8A2BE2,100:FF00FF&text=GRYFFIN&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Platform%20Engineer%20%7C%20AI%20Infra%20Researcher&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1a1a2e,100:16213e&text=GRYFFIN&fontSize=56&fontColor=58a6ff&fontAlignY=45&desc=Platform+Engineer+·+AI+Infrastructure&descSize=16&descColor=8b949e&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE...;KUBERNETES+%7C+ARGOCD+%7C+TERRAFORM;AUTOMATING+EVERYTHING;DEPLOYING+TO+THE+CYBERSPACE"/>
-
-</div>
-
----
-
-## 🧬 NEURAL PROFILE
-
-```yaml
-
-identity:
-
-  codename: GRYFFIN
-
-  role: Platform Engineer
-
-  location: Vietnam
-
-  status: ONLINE
-
-specialization:
-
-  - Kubernetes & Cloud Native
-
-  - GitOps · ArgoCD
-
-  - AI Infrastructure
-
-  - Platform Engineering
-
-  - Observability First
-
-philosophy:
-
-  - "Automate Everything"
-
-  - "Infrastructure as Code"
-
-  - "GitOps or Nothing"
-
-```
-
----
-
-## ⚡ CYBERNETIC STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,grafana,prometheus,nginx,githubactions,git,java,spring,python,mysql,postgres,redis&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=58a6ff&center=true&vCenter=true&width=600&lines=Platform+Engineer+%40+Vietnam;Kubernetes+%7C+ArgoCD+%7C+Terraform;GitOps+or+Nothing;Automate+Everything"/>
 
 </div>
 
----
-
-## 🛰️ ACTIVE SYSTEMS
-
-| SYSTEM | STATUS |
-
-|---|---|
-
-| Kubernetes Clusters | 🟢 ONLINE |
-
-| GitOps Pipeline | 🟢 ACTIVE |
-
-| Monitoring Stack | 🟢 TRACKING |
-
-| AI Research Lab | 🟢 RUNNING |
-
-| Automation Engine | 🟢 DEPLOYED |
-
----
-
-## ☁️ CYBER INFRASTRUCTURE
-
-```mermaid
-
-flowchart LR
-
-  A[Developer] --> B[GitHub]
-
-  B --> C[GitHub Actions]
-
-  C --> D[Docker Registry]
-
-  D --> E[Kubernetes]
-
-  E --> F[ArgoCD]
-
-  F --> G[Production]
-
-  G --> H[Prometheus]
-
-  H --> I[Grafana]
-
-  H --> J[Loki]
-
-```
-
----
-
-## 📊 DEPLOYMENT ANALYTICS
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF"/>
-
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF"/>
-
-</div>
-
----
-
-## 🧠 CORE DIRECTIVES
+<br/>
 
 ```diff
-
-+ BUILD RESILIENT SYSTEMS
-
-+ SCALE WITHOUT FEAR
-
-+ AUTOMATE REPETITIVE TASKS
-
-+ OBSERVE EVERYTHING
-
-+ PUSH TO PRODUCTION
-
++ CLOUD STATUS      :: OPERATIONAL
++ KUBERNETES        :: HEALTHY
++ AI MODULES        :: ACTIVE
++ OBSERVABILITY     :: ENABLED
++ GITOPS            :: SYNCED
 ```
+<br/>
+
+---
+
+### About
+
+Platform Engineer focused on building resilient, observable, and automated infrastructure.
+
+---
+
+### Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,linux&theme=dark&perline=5" />
+<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx,githubactions,bash&theme=dark&perline=5" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,redis&theme=dark&perline=5" />
+
+</div>
+
+
+### GitHub Stats
+
+<div align="center">
+
+
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=gryffin-uit-alpha&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+</div>
 
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gryffin-uit-alpha&style=for-the-badge&color=blueviolet"/>
-
-### ⚡ "THE CLOUD IS JUST SOMEONE ELSE'S COMPUTER."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=100&section=footer"/>
-
-</div>
